@@ -245,6 +245,9 @@ input:-webkit-autofill:active {
     .form_btn {
         width: 280px;
     }
+    .back-home-login, .back-home {
+        display: none;
+    }
 }
 
 @media only screen and (max-width: 440px) {
